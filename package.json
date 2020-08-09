@@ -1,14 +1,19 @@
 {
-    "name": "shiina",
-    "displayName": "shiina",
+    "name": "shiina-theme",
+    "displayName": "shiina theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.0",
+    "publisher": "yarnaimo",
     "engines": {
         "vscode": "^1.47.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yarnaimo/shiina.git"
+    },
     "contributes": {
         "themes": [
             {
