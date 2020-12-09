@@ -392,6 +392,13 @@
       "name": "Keyword"
     },
     {
+      "scope": ["keyword.control"],
+      "settings": {
+        "fontStyle": "bold"
+      },
+      "name": "Keyword Control"
+    },
+    {
       "scope": [
         "keyword.operator.ternary",
         "keyword.operator.expression",
