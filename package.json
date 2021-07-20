@@ -2,7 +2,7 @@
     "name": "shiina-theme",
     "displayName": "shiina theme",
     "description": "",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "yarnaimo",
     "engines": {
         "vscode": "^1.47.0"
