@@ -233,6 +233,13 @@
       "name": "op"
     },
     {
+      "scope": ["keyword.operator.relational"],
+      "settings": {
+        "fontStyle": "bold"
+      },
+      "name": "op"
+    },
+    {
       "scope": ["meta.brace.round"],
       "settings": {
         // "foreground": "#A1A200"
